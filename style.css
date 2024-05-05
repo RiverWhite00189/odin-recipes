@@ -1,0 +1,30 @@
+body {
+    background-color: #ede8f5;
+    color: #3d52a0;
+    font-family: "Monaco","Lucida Console", Courier, monospace;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+.icon {
+    height: auto;
+    width: 200px;
+}
+
+.header {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h1.header {
+    font-size: 47px;
+}
+
+.recipes {
+    font-size: 25px;
+    color: #7091e6;
+}
