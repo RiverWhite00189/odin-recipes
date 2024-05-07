@@ -11,6 +11,7 @@ img {
     width: 600px;
     margin: 20px auto;
     border: 5px solid #3d52a0;
+    text-align: center;
 
 }
 
@@ -28,12 +29,17 @@ img {
     border-bottom: 8px dotted #8697c4;
 }
 
-.title {
+.header.title {
     font-size: 47px;
     margin: 20px auto;
     padding: 10px;
 }
 
+.header.mini {
+    font-size: 20px;
+    padding: 2px;
+    border-bottom: 2px solid #8697c4;
+}
 
 .links {
     border: 5px solid#3d52a0;
@@ -44,8 +50,20 @@ img {
     padding: 15px 0px;
 }
 
-.recipes {
+.links .recipes {
     font-size: 25px;
     color: #7091e6;
     margin: 5px;
+}
+
+p {
+    margin: 5px auto;
+    text-align: center;
+}
+
+ul,
+ol {
+    margin: 0px auto;
+    width: 300px;
+    text-align: left;
 }
