@@ -3,6 +3,7 @@ body {
     color: #3d52a0;
     font-family: "Monaco","Lucida Console", Courier, monospace;
     text-align: center;
+    box-sizing: border-box;
 }
 
 img {
@@ -13,6 +14,9 @@ img {
 .icon {
     height: auto;
     width: 200px;
+    margin: 20px auto;
+    border: 10px solid #3d52a0;
+
 }
 
 .header {
@@ -20,11 +24,25 @@ img {
     font-weight: bold;
 }
 
-h1.header {
+.title {
     font-size: 47px;
+    width: 350px;
+    margin: 20px auto;
+    padding: 10px;
+    border-bottom: 8px dotted #8697c4;
+}
+
+.links {
+    border: 5px solid#3d52a0;
+    background-color: lavender;
+    width: 350px;
+    height: auto;
+    margin: 0px auto;
+    padding: 15px 0px;
 }
 
 .recipes {
     font-size: 25px;
     color: #7091e6;
+    margin: 5px;
 }
