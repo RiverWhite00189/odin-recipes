@@ -9,28 +9,30 @@ body {
 img {
     height: auto;
     width: 600px;
+    margin: 20px auto;
+    border: 5px solid #3d52a0;
+
 }
 
 .icon {
-    height: auto;
     width: 200px;
-    margin: 20px auto;
     border: 10px solid #3d52a0;
-
 }
 
 .header {
     font-size: 30px;
     font-weight: bold;
+    margin: 20px auto;
+    width: fit-content;
+    border-bottom: 8px dotted #8697c4;
 }
 
 .title {
     font-size: 47px;
-    width: 350px;
     margin: 20px auto;
     padding: 10px;
-    border-bottom: 8px dotted #8697c4;
 }
+
 
 .links {
     border: 5px solid#3d52a0;
