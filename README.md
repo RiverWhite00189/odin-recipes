@@ -1,5 +1,12 @@
-# Recipe
+## Recipe Page
 
-This is the first project in The Odin Project that will cover basic html. This project does not follow a tutorial and is self-made to meet certain requirements set by The Odin Projects.
+This is the first project in The Odin Project made with super basic HTML & CSS.
 
-These recipes were found originally in english and translated & shortened into spanish. They have been translated back into english for this project.
+## Why Peruvian Food?
+
+One of my favorite characters from a childhood book I read was Peruvian, and ever since then I would do my Spanish projects on Peruvian culture.  
+By now, I'm basically a Peruvian tour guide from holidays, food, dress, landmarks, hotels, bus routes, travel packages, etc.  
+When making this, our recent project was to make a food pamphlet, and I based my recipes on that! 
+
+# Note:
+- These recipes were found originally in English, translated & shortened into Spanish, and translated back into English. Things may be lost in translation. :/
