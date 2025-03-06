@@ -8,5 +8,5 @@ One of my favorite characters from a childhood book I read was Peruvian, and eve
 By now, I'm basically a Peruvian tour guide from holidays, food, dress, landmarks, hotels, bus routes, travel packages, etc.  
 When making this, our recent project was to make a food pamphlet, and I based my recipes on that! 
 
-# Note:
+## Note:
 - These recipes were found originally in English, translated & shortened into Spanish, and translated back into English. Things may be lost in translation. :/
